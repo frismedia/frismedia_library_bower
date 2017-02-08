@@ -4,7 +4,7 @@
     "description": "Frismedia Library Dependencies!",
     "main": "",
     "authors": [
-        "Sander Bruggeman <sander@frismedia.nl>"
+        "Frismedia <info@frismedia.nl>"
     ],
     "license": "MIT",
     "keywords": [
@@ -12,7 +12,7 @@
     ],
     "moduleType": [],
     "homepage": "",
-    "private": true,
+    "private": false,
     "ignore": [
         "**\/.*",
         "node_modules",
