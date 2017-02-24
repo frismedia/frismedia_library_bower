@@ -40,7 +40,7 @@
         "angular-material": "~0.10.0",
         "angular-messages": "~1.4.3",
         "angular-mocks": "*",
-        "angular-route": "~1.4.3",
+        "angular-route": "~1",
         "angular-sanitize": "^1.2.10",
         "angular-slick": "~0.2.1",
         "angular-sortable": "~0.3.4",
